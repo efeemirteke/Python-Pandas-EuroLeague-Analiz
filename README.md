@@ -1,0 +1,1 @@
+Bu projemde kaggleden aldığım veritabanı ile Python Pandas kütüphanesinde DataFrameler ile çalışma fırsatı buldum takımlar üzerinde analizler ve dataframeler üzerinde değişiklikler yaparak veriyi görselleştirmeye hazır hale getirdim.
